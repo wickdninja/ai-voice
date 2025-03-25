@@ -2,6 +2,8 @@
 
 A proof-of-concept for an AI-powered HR assistant that enables real-time voice conversations using OpenAI's real-time APIs and WebRTC technology.
 
+<img src="https://github.com/wickdninja/assets/raw/refs/heads/main/ai-voice" alt="demo" />
+
 ## Features
 
 - Real-time voice conversation with an AI HR assistant
